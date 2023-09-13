@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Botton_Debug" parent="android:Theme.Material.Light.NoActionBar">
+    <!-- Defina a cor da barra de navegação -->
+    <item name="android:navigationBarColor">#CF7D74</item>
+
+    <!-- Resto das configurações do tema -->
+</style>
+
+
+</resources>
